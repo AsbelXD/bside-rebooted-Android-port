@@ -1,0 +1,50 @@
+{
+	"storyName": "the kids are robbing me",
+	"difficulties": "hard,erect",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf menu",
+		""
+	],
+	"songs": [
+		[
+			"south",
+			"spookyb",
+			[
+				186,
+				113,
+				15
+			]
+		],
+		[
+			"spookeez",
+			"spookyb",
+			[
+				186,
+				113,
+				15
+			]
+		],
+		[
+			"vandalist",
+			"spookyb2",
+			[
+				255,
+				235,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
